@@ -344,12 +344,6 @@ with st.sidebar:
                     letter-spacing:1.5px; margin-bottom:0.8rem;">👩‍💻 Réalisé par</div>
         <div style="font-size:0.85rem; color:#374151; line-height:2;">
             • OUKMI Fatima Zahra<br>
-            • MOUJTAHID Chaimae<br>
-            • LAMHARZI Hajar
-        </div>
-        <div style="margin-top:0.8rem; font-size:0.78rem; color:#6b7280;">
-            <span style="font-weight:600;">Encadrée par :</span><br>
-            Mme EL BOUJNOUNI Imane
         </div>
     </div>
     """, unsafe_allow_html=True)
